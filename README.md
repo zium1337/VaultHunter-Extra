@@ -9,7 +9,7 @@ Latest tested verison: **U14.2**
 > [!IMPORTANT]
 > This installation method is for Windows only! If you want install on Linux, just skip 5. and then type "python main.py" on your terminal.
 
-1. Download latest version
+1. Download [latest](https://github.com/zium1337/VaultHunter-Extra/releases/latest) version
 2. Clone this repo
 3. Copy the config and scripts folder into your game instance
 4. Download [ExtraDisks](https://www.curseforge.com/minecraft/mc-mods/extra-disks) to your game instance
