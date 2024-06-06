@@ -2,7 +2,7 @@
 
 This is additional content that I use myself in my installation [Vault Hunters](https://www.curseforge.com/minecraft/modpacks/vault-hunters-1-18-2). Maybe someone will like such modifications :)
 
-Latest tested verison: **U14.2**
+Latest tested verison: **U14 Hotfix 2**
 
 # Installation
 
@@ -11,7 +11,7 @@ Latest tested verison: **U14.2**
 
 1. Download [latest](https://github.com/zium1337/VaultHunter-Extra/releases/latest) version
 2. Clone this repo
-3. Copy the config and scripts folder into your game instance
+3. Copy the **config** and **scripts** folder into your game instance
 4. Download [ExtraDisks](https://www.curseforge.com/minecraft/mc-mods/extra-disks) to your game instance
 5. Run extra.exe
 6. Drop the the_vault-(current_version).jar to the console
