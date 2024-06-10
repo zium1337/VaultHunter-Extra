@@ -2,7 +2,7 @@
 
 This is additional content that I use myself in my installation [Vault Hunters](https://www.curseforge.com/minecraft/modpacks/vault-hunters-1-18-2). Maybe someone will like such modifications :)
 
-Latest tested verison: **U14 Hotfix 2**
+Latest tested verison: **U14 Hotfix 3**
 
 # Installation
 
